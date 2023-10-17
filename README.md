@@ -1,3 +1,4 @@
+[![MasterHead](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)]
 <h1 align="center">Hi 👋, I'm Ganesh Jainarain</h1>
 <h3 align="center">A passionate Data Analyst from New York City</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
