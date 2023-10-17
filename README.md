@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Jainarain</h1>
 <h3 align="center">A passionate Data Analyst from New York City</h3>
-<img align="right" alt="Coding" width="400" src="[[https://komarev.com/ghpvc/?username=ganeshjainarain&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1h-x2I8KASxtgv3M6UKJYq&ust=1697646488674000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDW0ZHA_YEDFQAAAAAdAAAAABAE)" alt="ganeshjainarain" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshjainarain&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshjainarain" /> </p>
 
